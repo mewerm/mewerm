@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <p> 👋 </p> <p>I'm Maxim</h1 </p> >
+<h1 align="center">Hi there, I'm Maxim   👋  </h1>
 <h3 align="center">I'm a Student Android Developer and want to become a true expert at my job.</h3>
 
 
