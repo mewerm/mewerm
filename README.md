@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 **All of my projects are available at: [Repositories](https://github.com/mewerm?tab=repositories)**
-- 📄 **Know about my experiences: [Resume](https://disk.yandex.ru/i/oGpuY2yJk_dcuw)**
+- 📄 **Know about my experiences: [Resume](https://disk.yandex.ru/i/EfdI9z6zLdV_zw)**
 - ⚡ **Fun fact: I'm a former professional guitar player and still love play guitar.**
 - 📺 **Here is my warm memories:** <a href="https://www.youtube.com/watch?v=_siCg42gqd0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103746333/199425463-4874af37-6b19-4061-aac2-19a77382c65c.svg" alt="@mewerm" height="30" width="30" /></a> <a href="https://youtu.be/iX9AxtWHKZ0" target="blank"><img align="center"  src="https://user-images.githubusercontent.com/103746333/199425463-4874af37-6b19-4061-aac2-19a77382c65c.svg" alt="@mewerm" height="30" width="30" /></a>
 
