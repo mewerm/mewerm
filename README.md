@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maxim   👋  </h1>
-<h3 align="center">I'm a Student Android Developer and want to become a true expert at my job.</h3>
+<h3 align="center">I'm a Student Android Developer and want to become a true expert.</h3>
 
 
 - 👨‍💻 **All of my projects are available at: [Repositories](https://github.com/mewerm?tab=repositories)**
