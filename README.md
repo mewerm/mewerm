@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=500&color=F7DF00C8&width=600&height=60&lines=Hi+there%2C+I'm+Maxim+%F0%9F%91%8B+;I'm+a+Student+Android+Developer;and+want+to+become+a+true+expert.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=500&color=F7DF00C8&width=600&height=60&lines=Hi+there%2C+I'm+Maxim+%F0%9F%91%8B+;I'm+a+Student+Android+Developer;and+want+to+become+a+true+expert.)](https://git.io/typing-svg)
 
 - 👨‍💻 **All of my projects are available at: [Repositories](https://github.com/mewerm?tab=repositories)**
 - 📄 **Know about my experiences: [Resume](https://disk.yandex.ru/i/EfdI9z6zLdV_zw)**
